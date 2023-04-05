@@ -108,7 +108,7 @@ const Home = ({ quoteData }: any) => {
               : searching && (
                   <blockquote className="p-6 bg-white rounded shadow">
                     <p className="mb-4 text-xl">
-                      No Results. Please try again.
+                      No Results man. Please try again.
                     </p>
                   </blockquote>
                 )}
